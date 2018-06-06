@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+td {
+	padding: 10px;
+	border-radius: 20px;
+}
+
+.button2 {
+	font-size: 15px;
+	appearance: none;
+	background-color: #ffff;
+	border-radius: 8px;
+	border: none;
+	transition-duration: 0.7s;
+	color: black;
+	height: 50px;
+	width: 150px;
+	border-radius: 15px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.button2:hover {
+	background-color: #00588c;
+	color: white;
+}
+
+.mark {
+	text-align: center;
+	border: none;
+	height: 20px;
+	font-weight: bold;
+	border-radius: 10px;
+	color: black;
+	height: 20px;
+	letter-spacing: 1px;
+	font-family: sans-serif;
+}

@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+.tab1 {
+	color: #fff;
+	border-spacing: 40px;
+	border-collapse: separate;
+	padding-left: 40mm;
+	padding-top: 50px;
+}
+
+.subject {
+	padding-top: 30px;
+	background-color: black;
+	padding-bottom: 20px;
+	padding-right: 100mm;
+	position: fixed;
+	background-attachment: fixed;
+	padding-left: 91mm;
+}
+.subject1 {
+	padding-top: 30px;
+	background-color: black;
+	padding-bottom: 20px;
+	padding-right: 100mm;
+	position: fixed;
+	background-attachment: fixed;
+	padding-left: 9cm;
+}
